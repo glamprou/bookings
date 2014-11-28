@@ -1,0 +1,6 @@
+{*
+ *}
+{include file='..\..\tpl\Email\emailheader.tpl'}
+{$FirstName},
+εκκρεμεί η εισαγωγή ημερομηνίας για τον αγώνα με αντίπαλο τον/την {$caller} (<a href="mailto:{$callerEmailAddress}">{$callerEmailAddress}</a>) η οποία λήγει <b>αύριο</b>! Σε περίπτωση πού δεν εισάγετε την ημερομηνία και το αποτέλεσμα του αγώνα έγκαιρα θα σας επιβληθεί ποινή! Μπορείτε να συνδεθείτε στο σύστημα κατάταξης για να εισάγετε ημερομηνία και αποτέλεσμα του αγώνα. <br/><a href="{$link}">Ace Ranking System</a>	
+{include file='..\..\tpl\Email\emailfooter.tpl'}

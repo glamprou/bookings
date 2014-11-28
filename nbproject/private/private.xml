@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/lib/Application/Schedule/SlotLabelFactory.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/lib/Application/Schedule/ResourceService.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Presenters/SchedulePresenter.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Web/css/schedule.css</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Domain/Access/ScheduleRepository.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/lib/Application/Reservation/Validation/QuotaRule.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Web/scripts/schedule.js</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/lib/Application/Schedule/DailyLayout.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Pages/SchedulePage.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Pages/Ajax/ReservationSavePage.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Domain/Quota.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Pages/Ajax/ReservationUpdatePage.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Presenters/SchedulePageBuilder.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/tpl/schedule.tpl</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Domain/Access/ReservationViewRepository.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Ranking/editTours.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/ace-athens/Domain/Schedule.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,62 @@
+#rt_tabs ul {
+    list-style-type: none;
+}
+#rt_tabs li {
+    padding: 5px;
+    float: left;
+}
+#ranking_table {
+    width:880px;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+#ranking_table th, #ranking_table td{
+    padding: 4px;
+    border: 1px solid #000000;
+}
+#rt_pos_col,#rt_poi_col{
+    width:60px;
+}
+.row0 {
+    background-color: #ccc;
+}
+.row1 {
+    background-color: #FAFAFA;
+}
+.row0:hover, .row1:hover{
+    background-color: #FFFFE0;
+}
+.plr_pos_dif {
+    float: right;
+    text-align: center;
+    width: 20px;
+}
+.plr_pos{
+    text-align: center;
+}
+.r_plr_btn{
+    width: 50px;
+    float: left;
+    text-align: center;
+}
+.plr_block, .plr_unblock, .plr_injure, .plr_uninjure, .plr_remove{
+    cursor: pointer;
+}
+.plr_name{
+    float: left;
+}
+#rt_set_col{
+    width: 170px;
+}
+.plr_points{
+    text-align: center;
+}
+.plr_l5m, .plr_stats, .plr_ltp{
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.call{
+    cursor: pointer;
+    font-weight: bold;
+}

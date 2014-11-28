@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^acetennis\.gr$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.acetennis\.gr$
+RewriteRule ^bookings\/?$ "http\:\/\/www\.acetennis\.gr\/bookings\/Web" [R=301,L]
+
